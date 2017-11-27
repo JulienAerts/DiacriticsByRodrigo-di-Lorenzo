@@ -1,0 +1,16 @@
+{
+  "name": "diacriticsjs",
+  "main": "removeDiacritics.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JulienAerts/DiacriticsByRodrigo-di-Lorenzo.git"
+  },
+  "ignore": [
+    "Gruntfile.js",
+    "site",
+    "bower.json",
+    "component.json",
+    "package.json"
+  ]
+}
